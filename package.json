@@ -31,7 +31,7 @@
     "azure-iot-provisioning-service": "1.8.9",
     "azure-iothub": "1.13.1",
     "chalk": "4.1.1",
-    "mqtt": "4.2.6",
+    "mqtt": "4.2.8",
     "node-fetch": "^2.6.1",
     "uuid": "3.4.0"
   },
