@@ -28,7 +28,7 @@
     "@azure/arm-deviceprovisioningservices": "2.1.0",
     "@azure/ms-rest-nodeauth": "3.0.10",
     "@nordicsemiconductor/asset-tracker-cloud-device-ui-server": "4.0.1",
-    "azure-iot-provisioning-service": "1.8.10",
+    "azure-iot-provisioning-service": "1.8.11",
     "azure-iothub": "1.13.1",
     "chalk": "4.1.2",
     "mqtt": "4.2.8",
